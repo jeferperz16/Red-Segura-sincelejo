@@ -1,0 +1,7 @@
+target/
+nbproject/private/
+*.class
+*.log
+.idea/
+*.iml
+reporte_redsegura.txt
